@@ -24,9 +24,16 @@ Replace the files in /assets as listed below before publishing:
 
 <p align="center">
   <a href="./assets/badge-portfolio.png"><img src="assets/badge-portfolio.png" alt="Portfolio" width="180" height="28" style="margin-right:6px;"/></a>
-  <a href="mailto:ashishvishwakarma0406@gmail.com"><img src="assets/badge-email.png" alt="Email" width="180" height="28" style="margin-right:6px;"/></a>
+  <a href="mailto:ashishvishwakarma0606@gmail.com"><img src="assets/badge-email.png" alt="Email" width="180" height="28" style="margin-right:6px;"/></a>
   <a href="https://github.com/ashish-vishwakarma04"><img src="assets/badge-github.png" alt="GitHub" width="180" height="28" style="margin-right:6px;"/></a>
   <a href="./assets/badge-open-to-work.png"><img src="assets/badge-open-to-work.png" alt="Open to work" width="180" height="28" /></a>
+  <a href="mailto:ashishvishwakarma0606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ashish-vishwakarma04">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00C853?style=for-the-badge" />
 </p>
 
 <p align="center">

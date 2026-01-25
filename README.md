@@ -33,9 +33,7 @@ Replace the files in /assets as listed below before publishing:
 
 
 
-<p align="center">
-  <small>Profile views: <!-- GitHub will show counts if you enable ghpvc -> use static fallback image or local badge --> <strong>— add `assets/profile-views.png` if you want a static counter image —</strong></small>
-</p>
+
 
 <hr />
 
@@ -166,18 +164,3 @@ Relevant coursework: Data Structures & Algorithms, Operating Systems, Computer N
 - Led a 30-member technical team; executed 3+ coding events with 200+ participants.  
 - Increased participation by 25% by automating registration and contest workflows.
 
----
-
-## Assets required (place files in `/assets`)
-
-- `assets/avatar.png` — **320×320px** (square headshot)  
-- `assets/badge-portfolio.png` — **260×40px** (portfolio badge)  
-- `assets/badge-email.png` — **260×40px** (email badge)  
-- `assets/badge-github.png` — **260×40px** (github badge)  
-- `assets/badge-open-to-work.png` — **260×40px** (open-to-work badge)  
-- `assets/contrib-graph.png` — **1000×260px** (contribution graph snapshot)  
-- `assets/project-*.png` — **480×240px** (featured project preview images)
-
----
-
-If you want a version optimized for **mobile** (single-column cards) or a **compact recruiter-ready** one-paragraph summary, tell me which and I will produce it next.

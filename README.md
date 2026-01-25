@@ -1,97 +1,179 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Enthusiast;CS+Undergrad+%40+VIT+Bhopal" alt="Typing SVG" />
-  
-  <h1>Hi there, I'm Ashish Vishwakarma! 👋</h1>
+<!--
+README.md
+Profile README for: Ashish Vishwakarma
+Replace the files in /assets as listed below before publishing:
+  - assets/avatar.png — 320×320px
+  - assets/badge-portfolio.png — 260×40px
+  - assets/badge-email.png — 260×40px
+  - assets/badge-github.png — 260×40px
+  - assets/badge-open-to-work.png — 260×40px
+  - assets/contrib-graph.png — 1000×260px
+  - assets/project-IRv3-MaxViT.png — 480×240px
+  - assets/project-megaproject-as.png — 480×240px
+  - assets/project-guitar-app.png — 480×240px
+  - assets/project-psoc.png — 480×240px
+-->
 
-  <p>
-    <b>Software Engineering Undergraduate | Full Stack Developer | AI/ML Integrator</b>
-  </p>
-  
-  <a href="https://linkedin.com/in/Ashishvishwakarma0406">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashishvishwakarma0606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<h1 align="center" style="margin-bottom:0.25rem">
+  <strong>AI Engineer | Full-Stack Developer</strong>
+</h1>
+
+<p align="center" style="margin-top:0.25rem">
+  <img src="assets/avatar.png" alt="Ashish Vishwakarma — avatar" width="120" height="120" style="border-radius:10px; display:inline-block; margin-right:0.5rem" />
+</p>
+
+<p align="center">
+  <a href="./assets/badge-portfolio.png"><img src="assets/badge-portfolio.png" alt="Portfolio" width="180" height="28" style="margin-right:6px;"/></a>
+  <a href="mailto:ashishvishwakarma0406@gmail.com"><img src="assets/badge-email.png" alt="Email" width="180" height="28" style="margin-right:6px;"/></a>
+  <a href="https://github.com/ashish-vishwakarma04"><img src="assets/badge-github.png" alt="GitHub" width="180" height="28" style="margin-right:6px;"/></a>
+  <a href="./assets/badge-open-to-work.png"><img src="assets/badge-open-to-work.png" alt="Open to work" width="180" height="28" /></a>
+</p>
+
+<p align="center">
+  <small>Profile views: <!-- GitHub will show counts if you enable ghpvc -> use static fallback image or local badge --> <strong>— add `assets/profile-views.png` if you want a static counter image —</strong></small>
+</p>
+
+<hr />
+
+## About Me
+
+I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) building production-ready full-stack and AI-powered systems. I focus on clean architecture, measurable performance, and shipping reliable software — not academic demos.
+
+- Engineering student (B.Tech CSE, VIT Bhopal) — expected graduation **May 2027** (CGPA: 8.43/10).
+- Hands-on with **MERN** (React, Redux Toolkit, Node.js, Express, MongoDB) and production APIs.
+- Practical experience in **AI/ML** (TensorFlow, OpenCV), deployment, and model-driven products.
+- Strong core CS foundations: **Data Structures & Algorithms (C++), Operating Systems, Computer Networks**.
+- Leadership: President — **GeeksForGeeks Student Chapter** (led 30 members, ran events for 200+ participants).
+- Seeking Software Developer / AI Engineer internship roles focused on scalable web systems and AI integrations.
+
+**Contact**
+- Location: Ambikapur, Chhattisgarh, India  
+- Email: `ashishvishwakarma0406@gmail.com`  
+- Phone: +91 97704 67529  
+- GitHub: https://github.com/ashish-vishwakarma04
+
+---
+
+## What I'm Working On
+
+| Project | Description | Tech |
+|--------:|------------|:----:|
+| **Cuehut (Prompt Sharing Platform)** | Production prompt marketplace — full-stack platform with auth, content management, and search. (live deployment on Google Cloud) | Next.js, React, Node.js, PostgreSQL, Google Cloud |
+| **Health Ease** | Centralized healthcare web platform with REST APIs for hospital data, automated report extraction and consultations. | React, Redux Toolkit, Node.js, Express, MongoDB |
+| **Authenticity — Image Verification** | Real-time AI-based image authenticity verification with CNN models and REST inference endpoints. | Python, TensorFlow, Flask |
+| **Guitar Practice App** | Learning companion with lessons, progress tracking, interactive practice sessions. | TypeScript, React |
+
+---
+
+## Tech Stack
+
+### Languages
+`Java` · `Python` · `JavaScript` · `TypeScript` · `C++`
+
+### Frontend & State
+`React` · `Redux Toolkit` · `HTML5` · `CSS3` · `Responsive Design` · `Figma` (UI/UX)
+
+### Backend & APIs
+`Node.js` · `Express` · `Flask` · `REST APIs` · `Postman` · `Supabase`
+
+### Databases & DevOps
+`PostgreSQL` · `MongoDB` · `MySQL` · `Docker` · `AWS (EC2, S3 basics)` · `CI/CD fundamentals` · `Linux`
+
+### AI / ML (supporting)
+`TensorFlow` · `scikit-learn` · `OpenCV` · model deployment via REST
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px; border-right:1px solid #ddd">
+      <h4>IRv3-MaxViT</h4>
+      <p style="margin:0.25rem 0 0.5rem 0">Hybrid deep learning architecture combining Inception-ResNet v3 with MaxViT for robust image classification. Research-focused implementation and reproducible training scripts.</p>
+      <p style="margin:0.25rem 0"><strong>Tech:</strong> Python, TensorFlow</p>
+      <p style="margin:0.25rem 0"><a href="https://github.com/ashish-vishwakarma04/IRv3-MaxViT">View Repo</a></p>
+      <img src="assets/project-IRv3-MaxViT.png" alt="IRv3-MaxViT screenshot" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="padding:8px">
+      <h4>Megaproject-AS</h4>
+      <p style="margin:0.25rem 0 0.5rem 0">Telegram chatbot that automates meeting scheduling, calendar management, and conversational appointments.</p>
+      <p style="margin:0.25rem 0"><strong>Tech:</strong> JavaScript, Node.js</p>
+      <p style="margin:0.25rem 0"><a href="https://github.com/ashish-vishwakarma04/Megaproject-AS">View Repo</a></p>
+      <img src="assets/project-megaproject-as.png" alt="Megaproject-AS screenshot" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:8px; border-top:1px solid #ddd; border-right:1px solid #ddd">
+      <h4>Guitar Practice App</h4>
+      <p style="margin:0.25rem 0 0.5rem 0">Digital guitar learning companion with structured lessons, progress tracking, and interactive sessions.</p>
+      <p style="margin:0.25rem 0"><strong>Tech:</strong> TypeScript, React</p>
+      <p style="margin:0.25rem 0"><a href="https://github.com/ashish-vishwakarma04/guitar-practice-app">View Repo</a></p>
+      <img src="assets/project-guitar-app.png" alt="Guitar Practice App screenshot" width="100%" />
+    </td>
+    <td width="50%" valign="top" style="padding:8px; border-top:1px solid #ddd">
+      <h4>PSOC BIT Mesra</h4>
+      <p style="margin:0.25rem 0 0.5rem 0">Official website for the Photographic Society of BIT Mesra — collaborative frontend project showcasing club activities.</p>
+      <p style="margin:0.25rem 0"><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      <p style="margin:0.25rem 0"><a href="https://github.com/ashish-vishwakarma04/psocbitmesra.github.io">View Repo</a></p>
+      <img src="assets/project-psoc.png" alt="PSOC BIT Mesra screenshot" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<p align="center">
   <a href="https://github.com/ashish-vishwakarma04">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="assets/contrib-graph.png" alt="Contribution graph for ashish-vishwakarma04" width="100%" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <strong>Followers:</strong> <!-- Replace with manual count image or text if wanted --> — add follower badge/image to assets if desired &nbsp;&nbsp; <strong>Total Stars:</strong> — add stars-badge if desired
+</p>
 
 ---
 
-### 🚀 About Me
+## Interests & Exploration
 
-I am a Computer Science Engineering student at **VIT Bhopal University** (Class of 2027) with a passion for building scalable web systems and integrating AI/ML models into production applications. My focus lies in bridging the gap between performant backend services and responsive frontend interfaces.
+- **Agentic AI Systems** — Building autonomous workflows and multi-agent orchestration.  
+- **LLM Application Development** — Integrating large language models into practical tooling.  
+- **Browser Automation & Extensions** — Productivity-focused intelligent extensions.  
+- **Developer Experience** — Tooling that improves developer velocity and reliability.
 
-- 🔭 I’m currently working on **Cuehut**, a production-grade prompt sharing platform.
-- 💼 Previously **AI/ML Intern at Infosys** (Smilage Project).
-- 🌱 I’m currently learning **Advanced System Design & Cloud Architecture**.
-- 🎯 Seeking **Software Developer Intern** roles focused on full-stack development and backend engineering.
-
----
-
-### 🛠️ Technical Arsenal
-
-| **Category** | **Technologies** |
-|:---:|:---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Tools & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+> _"Building tools that make the complex simple."_
 
 ---
 
-### 💻 Featured Projects
+### Education
+**B.Tech in Computer Science Engineering** — VIT Bhopal (Aug 2023 – May 2027)  
+Relevant coursework: Data Structures & Algorithms, Operating Systems, Computer Networks, AI/ML Fundamentals
 
-#### [🎨 Cuehut: Prompt Sharing Platform](https://cuehut.com)
-*Next.js, React, Node.js, PostgreSQL, Google Cloud*
-* **Production-grade platform** for creating, saving, and sharing AI prompts.
-* Achieved **sub-350ms** response times under load via optimized API architecture.
-* Implemented robust authentication and content management systems.
+### Experience (selected)
+**Infosys — AI/ML Intern** (Aug 2025 – Oct 2025)  
+- Delivered an AI-powered selfie capture system with smile detection and age prediction; <1s inference latency using optimized pre-trained models.  
+- Modularized Python services and integrated REST APIs, improving system reliability by 25%.  
+- Automated model validation workflows—reduced manual testing by 30%.
 
-#### [🏥 Health Ease: Healthcare Platform](https://github.com/ashish-vishwakarma04)
-*React, Redux, Node.js, Express, MongoDB*
-* Centralized platform managing hospital data, reports, and consultations.
-* **Reduced manual report analysis by 40%** through automated backend data extraction.
-* Validated system integrity with extensive Postman API testing workflows.
-
-#### [🕵️ Authenticity: Image Verification AI](https://github.com/ashish-vishwakarma04)
-*Python, TensorFlow, Flask, HTML/JS*
-* AI-generated image detection model with **89% accuracy** using CNNs.
-* Exposed inference via REST APIs with **<100ms** latency for real-time verification.
+**President — GeeksForGeeks Student Chapter** (Oct 2024 – Present)  
+- Led a 30-member technical team; executed 3+ coding events with 200+ participants.  
+- Increased participation by 25% by automating registration and contest workflows.
 
 ---
 
-### 💼 Experience
+## Assets required (place files in `/assets`)
 
-**Infosys | AI/ML Intern**
-*Aug 2025 - Oct 2025*
-* Delivered **Smilage**, an AI-powered selfie capture system with smile detection and age prediction.
-* Achieved **under 1s inference latency** by optimizing DeepFace and OpenCV models.
-* Automated model validation scripts, reducing testing effort by **30%**.
-
-**GeeksForGeeks Student Chapter | President**
-*Oct 2024 - Present*
-* Leading a 30-member technical team; organized 3+ coding events with **200+ participants**.
-* Increased student participation by **25%** through workflow automation.
+- `assets/avatar.png` — **320×320px** (square headshot)  
+- `assets/badge-portfolio.png` — **260×40px** (portfolio badge)  
+- `assets/badge-email.png` — **260×40px** (email badge)  
+- `assets/badge-github.png` — **260×40px** (github badge)  
+- `assets/badge-open-to-work.png` — **260×40px** (open-to-work badge)  
+- `assets/contrib-graph.png` — **1000×260px** (contribution graph snapshot)  
+- `assets/project-*.png` — **480×240px** (featured project preview images)
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-vishwakarma04&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-vishwakarma04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-vishwakarma04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <p><i>Lets connect and build something amazing!</i></p>
-</div>
+If you want a version optimized for **mobile** (single-column cards) or a **compact recruiter-ready** one-paragraph summary, tell me which and I will produce it next.

@@ -23,7 +23,7 @@ Replace the files in /assets as listed below before publishing:
 </p>
 
 <p align="center">
-  <a href="./assets/badge-portfolio.png"><img src="assets/badge-portfolio.png" alt="Portfolio" width="180" height="28" style="margin-right:6px;"/></a>
+  <a href="https://ashishvishwakarma.vercel.app/"><img src="assets/badge-portfolio.png" alt="Portfolio" width="180" height="28" style="margin-right:6px;"/></a>
   <a href="mailto:ashishvishwakarma0406@gmail.com"><img src="assets/badge-email.png" alt="Email" width="180" height="28" style="margin-right:6px;"/></a>
   <a href="https://github.com/ashish-vishwakarma04"><img src="assets/badge-github.png" alt="GitHub" width="180" height="28" style="margin-right:6px;"/></a>
   <a href="./assets/badge-open-to-work.png"><img src="assets/badge-open-to-work.png" alt="Open to work" width="180" height="28" /></a>

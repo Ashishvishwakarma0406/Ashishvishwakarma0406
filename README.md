@@ -30,19 +30,6 @@ Replace the files in /assets as listed below before publishing:
   
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-vishwakarma04&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <a href="mailto:ashishvishwakarma0406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ashish-vishwakarma04">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00C853?style=for-the-badge" />
-</p>
 
 
 

@@ -39,11 +39,11 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
 - Leadership: President — **GeeksForGeeks Student Chapter** (led 30 members, ran events for 200+ participants).
 - Seeking Software Developer / AI Engineer internship roles focused on scalable web systems and AI integrations.
 
-**Contact**
+<!-- **Contact**
 - Location: Ambikapur, Chhattisgarh, India  
 - Email: `ashishvishwakarma0406@gmail.com`  
 - Phone: +91 97704 67529  
-- GitHub: https://github.com/ashish-vishwakarma04
+- GitHub: https://github.com/ashish-vishwakarma04 -->
 
 ---
 
@@ -97,7 +97,7 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment_REST-02569B?style=flat&logo=fastapi&logoColor=white)
 
 
----
+<!-- ---
 
 ## Featured Projects
 
@@ -136,7 +136,7 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
   </tr>
 </table>
 
----
+--- -->
 
 ## GitHub Activity
 

@@ -1,35 +1,26 @@
-<!--
-README.md
-Profile README for: Ashish Vishwakarma
-Replace the files in /assets as listed below before publishing:
-  - assets/avatar.png — 320×320px
-  - assets/badge-portfolio.png — 260×40px
-  - assets/badge-email.png — 260×40px
-  - assets/badge-github.png — 260×40px
-  - assets/badge-open-to-work.png — 260×40px
-  - assets/contrib-graph.png — 1000×260px
-  - assets/project-IRv3-MaxViT.png — 480×240px
-  - assets/project-megaproject-as.png — 480×240px
-  - assets/project-guitar-app.png — 480×240px
-  - assets/project-psoc.png — 480×240px
--->
+<div align="center">
+  
 
-<h1 align="center" style="margin-bottom:0.25rem">
-  <strong>AI Engineer | Full-Stack Developer</strong>
-</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Scalable+Web+Systems;CS+Undergrad+%40+VIT+Bhopal" alt="Typing SVG" />
 
-<p align="center" style="margin-top:0.25rem">
-  <img src="assets/avatar.png" alt="Ashish Vishwakarma — avatar" width="120" height="120" style="border-radius:10px; display:inline-block; margin-right:0.5rem" />
-</p>
+
+ <p>
+    <b>Building production-ready systems with clean architecture and measurable performance.</b>
+  </p>
 
 <p align="center">
-  <a href="./assets/badge-portfolio.png"><img src="assets/badge-portfolio.png" alt="Portfolio" width="180" height="28" style="margin-right:6px;"/></a>
-  <a href="mailto:ashishvishwakarma0406@gmail.com"><img src="assets/badge-email.png" alt="Email" width="180" height="28" style="margin-right:6px;"/></a>
-  <a href="https://github.com/ashish-vishwakarma04"><img src="assets/badge-github.png" alt="GitHub" width="180" height="28" style="margin-right:6px;"/></a>
-  <a href="./assets/badge-open-to-work.png"><img src="assets/badge-open-to-work.png" alt="Open to work" width="180" height="28" /></a>
+  <a href="https://ashishvishwakarma.vercel.app/">
+    <img src="https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-vishwakarma04/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  <a href="mailto:ashishvishwakarma0606@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   
 </p>
-
+</div>
 
 
 
@@ -60,29 +51,51 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
 
 | Project | Description | Tech |
 |--------:|------------|:----:|
-| **Cuehut (Prompt Sharing Platform)** | Production prompt marketplace — full-stack platform with auth, content management, and search. (live deployment on Google Cloud) | Next.js, React, Node.js, PostgreSQL, Google Cloud |
-| **Health Ease** | Centralized healthcare web platform with REST APIs for hospital data, automated report extraction and consultations. | React, Redux Toolkit, Node.js, Express, MongoDB |
-| **Authenticity — Image Verification** | Real-time AI-based image authenticity verification with CNN models and REST inference endpoints. | Python, TensorFlow, Flask |
-| **Guitar Practice App** | Learning companion with lessons, progress tracking, interactive practice sessions. | TypeScript, React |
+| **[Cuehut](https://cuehut.com)** | **Prompt sharing platform** with authentication, content publishing, and scalable backend APIs, built for real users and deployed on Google Cloud. | ![Next.js](https://img.shields.io/badge/Next.js-000000style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| **[Health Ease](https://health-ease-theta.vercel.app/)** | Centralized healthcare platform. **Reduced manual report analysis by 40%** via automated extraction. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **[Authenticity](https://github.com/Ashishvishwakarma0406/Authenticity)** | Real-time AI image verification. **89% accuracy** using CNNs with <100ms inference latency. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
 
 ---
 
 ## Tech Stack
 
 ### Languages
-`Java` · `Python` · `JavaScript` · `TypeScript` · `C++`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ' ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ' ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ' ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ' ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Frontend & State
-`React` · `Redux Toolkit` · `HTML5` · `CSS3` · `Responsive Design` · `Figma` (UI/UX)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A66C2?style=flat&logo=googlechrome&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma_UI%2FUX-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ### Backend & APIs
-`Node.js` · `Express` · `Flask` · `REST APIs` · `Postman` · `Supabase`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
 
 ### Databases & DevOps
-`PostgreSQL` · `MongoDB` · `MySQL` · `Docker` · `AWS (EC2, S3 basics)` · `CI/CD fundamentals` · `Linux`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2%20%7C%20S3-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Fundamentals-0A66C2?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+
 
 ### AI / ML (supporting)
-`TensorFlow` · `scikit-learn` · `OpenCV` · model deployment via REST
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment_REST-02569B?style=flat&logo=fastapi&logoColor=white)
+
 
 ---
 
@@ -128,13 +141,15 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ashish-vishwakarma04">
-    <img src="assets/contrib-graph.png" alt="Contribution graph for ashish-vishwakarma04" width="100%" />
+  <a href="https://github.com/Ashishvishwakarma0406">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishvishwakarma0406&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph"/>
   </a>
 </p>
 
 <p align="center">
-  <strong>Followers:</strong> <!-- Replace with manual count image or text if wanted --> — add follower badge/image to assets if desired &nbsp;&nbsp; <strong>Total Stars:</strong> — add stars-badge if desired
+  <img src="https://img.shields.io/github/followers/Ashishvishwakarma0406?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ashishvishwakarma0406?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+  
 </p>
 
 ---

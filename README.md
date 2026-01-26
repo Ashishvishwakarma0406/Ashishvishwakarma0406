@@ -1,4 +1,13 @@
 <div align="center">
+
+<p align="center">
+  <img 
+    src="assets/gitashish.png" 
+    alt="Project demo animation"
+    style="max-width:100%; height:auto;"
+  />
+</p>
+
   
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Scalable+Web+Systems;CS+Undergrad+%40+VIT+Bhopal" alt="Typing SVG" />

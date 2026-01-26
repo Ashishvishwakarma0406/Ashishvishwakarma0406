@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="assets/gitashish.png" 
+    src="assets/gitashish.webp" 
     alt="Project demo animation"
     style="max-width:100%; height:auto;"
   />

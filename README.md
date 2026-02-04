@@ -145,7 +145,7 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
   </tr>
 </table>
 
---- -->
+--- 
 
 ## GitHub Activity
 
@@ -161,7 +161,7 @@ I am **Ashish Vishwakarma**, a B.Tech Computer Science student (VIT Bhopal) buil
   
 </p>
 
----
+--- -->
 
 ## Interests & Exploration
 
